@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <title>Language</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <div id="controls">
+        <input type="text" id="inputBox" placeholder="Enter language name...">
+        <button id="submitButton">Submit</button>
+        <button id="giveUpButton">Give Up</button>
+    </div>
+    <div id="map"></div>
+
+    <div id="languageTreeContainer">
+        <h3>Language Families</h3>
+        <ul id="languageTree"></ul>
+    </div>    
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet"></script>
+    <script src="https://unpkg.com/leaflet-geojson"></script>
+    <script src="language_tree.js"></script>
+    <script src="languages.js"></script>
+    <script src="quiz.js"></script>
+</body>
+</html>
