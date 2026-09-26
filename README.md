@@ -9,3 +9,5 @@ Couldn't find a quiz with every language on any online quiz website, so i made o
   - Unfortunately similar names are inconsistent and difficult to completely remove
 
 I would create a stats page but there doesn't seem to be enough plays to justify that
+
+[Link](https://bambangan78.github.io/worldLanguagesQuiz/)
